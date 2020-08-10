@@ -1,0 +1,7 @@
+type Service @model {
+  id: ID!
+  title: String!
+  price: Float!
+  category: String!
+  purchaseDate: String!
+}
